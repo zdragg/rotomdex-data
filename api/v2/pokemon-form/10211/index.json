@@ -1,0 +1,229 @@
+{
+  "id": 10211,
+  "name": "geodude-alola",
+  "order": 121,
+  "form_order": 2,
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "form_name": "alola",
+  "pokemon": {
+    "name": "geodude-alola",
+    "url": "/api/v2/pokemon/10109/"
+  },
+  "sprites": {
+    "versions": {
+      "generation-ix": {
+        "scarlet-violet": {
+          "front_female": null,
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/10109.png"
+        }
+      },
+      "generation-viii": {
+        "brilliant-diamond-shining-pearl": {
+          "front_female": null,
+          "front_default": null
+        }
+      }
+    },
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10109.png",
+    "back_female": null,
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10109.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10109.png",
+    "front_female": null,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10109.png",
+    "back_shiny_female": null,
+    "front_shiny_female": null
+  },
+  "version_group": {
+    "name": "sun-moon",
+    "url": "/api/v2/version-group/17/"
+  },
+  "form_names": [
+    {
+      "name": "アローラのすがた",
+      "language": {
+        "name": "ja-hrkt",
+        "url": "/api/v2/language/1/"
+      }
+    },
+    {
+      "name": "알로라의 모습",
+      "language": {
+        "name": "ko",
+        "url": "/api/v2/language/3/"
+      }
+    },
+    {
+      "name": "阿羅拉的樣子",
+      "language": {
+        "name": "zh-hant",
+        "url": "/api/v2/language/4/"
+      }
+    },
+    {
+      "name": "Forme d’Alola",
+      "language": {
+        "name": "fr",
+        "url": "/api/v2/language/5/"
+      }
+    },
+    {
+      "name": "Alola-Form",
+      "language": {
+        "name": "de",
+        "url": "/api/v2/language/6/"
+      }
+    },
+    {
+      "name": "Forma de Alola",
+      "language": {
+        "name": "es",
+        "url": "/api/v2/language/7/"
+      }
+    },
+    {
+      "name": "Forma di Alola",
+      "language": {
+        "name": "it",
+        "url": "/api/v2/language/8/"
+      }
+    },
+    {
+      "name": "Alolan Form",
+      "language": {
+        "name": "en",
+        "url": "/api/v2/language/9/"
+      }
+    },
+    {
+      "name": "アローラのすがた",
+      "language": {
+        "name": "ja",
+        "url": "/api/v2/language/11/"
+      }
+    },
+    {
+      "name": "阿罗拉的样子",
+      "language": {
+        "name": "zh-hans",
+        "url": "/api/v2/language/12/"
+      }
+    },
+    {
+      "name": "Forma de Alola",
+      "language": {
+        "name": "es-419",
+        "url": "/api/v2/language/14/"
+      }
+    }
+  ],
+  "names": [
+    {
+      "name": "Racaillou d’Alola",
+      "language": {
+        "name": "fr",
+        "url": "/api/v2/language/5/"
+      }
+    },
+    {
+      "name": "Alola Kleinstein",
+      "language": {
+        "name": "de",
+        "url": "/api/v2/language/6/"
+      }
+    },
+    {
+      "name": "Alolan Geodude",
+      "language": {
+        "name": "en",
+        "url": "/api/v2/language/9/"
+      }
+    }
+  ],
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "rock",
+        "url": "/api/v2/type/6/"
+      }
+    },
+    {
+      "slot": 2,
+      "type": {
+        "name": "electric",
+        "url": "/api/v2/type/13/"
+      }
+    }
+  ],
+  "trigger_conditions": [],
+  "flavor_text_entries": [
+    {
+      "flavor_text": "Its body is a magnetic stone. Iron sand attaches\nfirmly to the portions of its body that are\nparticularly magnetic.",
+      "language": {
+        "name": "en",
+        "url": "/api/v2/language/9/"
+      },
+      "version": {
+        "name": "sun",
+        "url": "/api/v2/version/27/"
+      }
+    },
+    {
+      "flavor_text": "If you accidentally step on a Geodude sleeping\non the ground, you’ll hear a crunching sound and\nfeel a shock ripple through your entire body.",
+      "language": {
+        "name": "en",
+        "url": "/api/v2/language/9/"
+      },
+      "version": {
+        "name": "moon",
+        "url": "/api/v2/version/28/"
+      }
+    },
+    {
+      "flavor_text": "If you mistake it for a rock and step on it, it\nwill headbutt you in anger. In addition to the\npain, it will also zap you with a shock.",
+      "language": {
+        "name": "en",
+        "url": "/api/v2/language/9/"
+      },
+      "version": {
+        "name": "ultra-sun",
+        "url": "/api/v2/version/29/"
+      }
+    },
+    {
+      "flavor_text": "Geodude compete against each other with\nheadbutts. The iron sand on their heads will\nstick to whichever one has stronger magnetism.",
+      "language": {
+        "name": "en",
+        "url": "/api/v2/language/9/"
+      },
+      "version": {
+        "name": "ultra-moon",
+        "url": "/api/v2/version/30/"
+      }
+    },
+    {
+      "flavor_text": "Its stone head is imbued with electricity and\nmagnetism. If you carelessly step on one, you’ll\nbe in for a painful shock.",
+      "language": {
+        "name": "en",
+        "url": "/api/v2/language/9/"
+      },
+      "version": {
+        "name": "lets-go-pikachu",
+        "url": "/api/v2/version/31/"
+      }
+    },
+    {
+      "flavor_text": "Its stone head is imbued with electricity and\nmagnetism. If you carelessly step on one, you’ll\nbe in for a painful shock.",
+      "language": {
+        "name": "en",
+        "url": "/api/v2/language/9/"
+      },
+      "version": {
+        "name": "lets-go-eevee",
+        "url": "/api/v2/version/32/"
+      }
+    }
+  ]
+}

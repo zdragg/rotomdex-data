@@ -1,0 +1,229 @@
+{
+  "id": 10203,
+  "name": "sandshrew-alola",
+  "order": 57,
+  "form_order": 2,
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "form_name": "alola",
+  "pokemon": {
+    "name": "sandshrew-alola",
+    "url": "/api/v2/pokemon/10101/"
+  },
+  "sprites": {
+    "versions": {
+      "generation-ix": {
+        "scarlet-violet": {
+          "front_female": null,
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/10101.png"
+        }
+      },
+      "generation-viii": {
+        "brilliant-diamond-shining-pearl": {
+          "front_female": null,
+          "front_default": null
+        }
+      }
+    },
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10101.png",
+    "back_female": null,
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10101.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10101.png",
+    "front_female": null,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10101.png",
+    "back_shiny_female": null,
+    "front_shiny_female": null
+  },
+  "version_group": {
+    "name": "sun-moon",
+    "url": "/api/v2/version-group/17/"
+  },
+  "form_names": [
+    {
+      "name": "アローラのすがた",
+      "language": {
+        "name": "ja-hrkt",
+        "url": "/api/v2/language/1/"
+      }
+    },
+    {
+      "name": "알로라의 모습",
+      "language": {
+        "name": "ko",
+        "url": "/api/v2/language/3/"
+      }
+    },
+    {
+      "name": "阿羅拉的樣子",
+      "language": {
+        "name": "zh-hant",
+        "url": "/api/v2/language/4/"
+      }
+    },
+    {
+      "name": "Forme d’Alola",
+      "language": {
+        "name": "fr",
+        "url": "/api/v2/language/5/"
+      }
+    },
+    {
+      "name": "Alola-Form",
+      "language": {
+        "name": "de",
+        "url": "/api/v2/language/6/"
+      }
+    },
+    {
+      "name": "Forma de Alola",
+      "language": {
+        "name": "es",
+        "url": "/api/v2/language/7/"
+      }
+    },
+    {
+      "name": "Forma di Alola",
+      "language": {
+        "name": "it",
+        "url": "/api/v2/language/8/"
+      }
+    },
+    {
+      "name": "Alolan Form",
+      "language": {
+        "name": "en",
+        "url": "/api/v2/language/9/"
+      }
+    },
+    {
+      "name": "アローラのすがた",
+      "language": {
+        "name": "ja",
+        "url": "/api/v2/language/11/"
+      }
+    },
+    {
+      "name": "阿罗拉的样子",
+      "language": {
+        "name": "zh-hans",
+        "url": "/api/v2/language/12/"
+      }
+    },
+    {
+      "name": "Forma de Alola",
+      "language": {
+        "name": "es-419",
+        "url": "/api/v2/language/14/"
+      }
+    }
+  ],
+  "names": [
+    {
+      "name": "Sabelette d’Alola",
+      "language": {
+        "name": "fr",
+        "url": "/api/v2/language/5/"
+      }
+    },
+    {
+      "name": "Alola Sandan",
+      "language": {
+        "name": "de",
+        "url": "/api/v2/language/6/"
+      }
+    },
+    {
+      "name": "Alolan Sandshrew",
+      "language": {
+        "name": "en",
+        "url": "/api/v2/language/9/"
+      }
+    }
+  ],
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "ice",
+        "url": "/api/v2/type/15/"
+      }
+    },
+    {
+      "slot": 2,
+      "type": {
+        "name": "steel",
+        "url": "/api/v2/type/9/"
+      }
+    }
+  ],
+  "trigger_conditions": [],
+  "flavor_text_entries": [
+    {
+      "flavor_text": "It lives on snowy mountains. Its steel shell is\nvery hard—so much so, it can’t roll its body up\ninto a ball.",
+      "language": {
+        "name": "en",
+        "url": "/api/v2/language/9/"
+      },
+      "version": {
+        "name": "sun",
+        "url": "/api/v2/version/27/"
+      }
+    },
+    {
+      "flavor_text": "An ancient tradition of Alolan festivals, still\ncarried on to this day, is a competition to\nslide Sandshrew across ice as far as one can.",
+      "language": {
+        "name": "en",
+        "url": "/api/v2/language/9/"
+      },
+      "version": {
+        "name": "moon",
+        "url": "/api/v2/version/28/"
+      }
+    },
+    {
+      "flavor_text": "After fleeing a volcanic eruption, it ended up\nmoving to an area of snowy mountains. Its ice\nshell is as hard as steel.",
+      "language": {
+        "name": "en",
+        "url": "/api/v2/language/9/"
+      },
+      "version": {
+        "name": "ultra-sun",
+        "url": "/api/v2/version/29/"
+      }
+    },
+    {
+      "flavor_text": "The skin on its back is as hard as steel.\nPredators go after its soft belly, so it clings\nto the ground desperately.",
+      "language": {
+        "name": "en",
+        "url": "/api/v2/language/9/"
+      },
+      "version": {
+        "name": "ultra-moon",
+        "url": "/api/v2/version/30/"
+      }
+    },
+    {
+      "flavor_text": "Its ice-covered body lets it slide across the\nground with bullet-like speed, sending its\nenemies flying when it hits them.",
+      "language": {
+        "name": "en",
+        "url": "/api/v2/language/9/"
+      },
+      "version": {
+        "name": "lets-go-pikachu",
+        "url": "/api/v2/version/31/"
+      }
+    },
+    {
+      "flavor_text": "Its ice-covered body lets it slide across the\nground with bullet-like speed, sending its\nenemies flying when it hits them.",
+      "language": {
+        "name": "en",
+        "url": "/api/v2/language/9/"
+      },
+      "version": {
+        "name": "lets-go-eevee",
+        "url": "/api/v2/version/32/"
+      }
+    }
+  ]
+}

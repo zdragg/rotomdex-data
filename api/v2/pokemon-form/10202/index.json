@@ -1,0 +1,229 @@
+{
+  "id": 10202,
+  "name": "raichu-alola",
+  "order": 53,
+  "form_order": 2,
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "form_name": "alola",
+  "pokemon": {
+    "name": "raichu-alola",
+    "url": "/api/v2/pokemon/10100/"
+  },
+  "sprites": {
+    "versions": {
+      "generation-ix": {
+        "scarlet-violet": {
+          "front_female": null,
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/10100.png"
+        }
+      },
+      "generation-viii": {
+        "brilliant-diamond-shining-pearl": {
+          "front_female": null,
+          "front_default": null
+        }
+      }
+    },
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10100.png",
+    "back_female": null,
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10100.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10100.png",
+    "front_female": null,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10100.png",
+    "back_shiny_female": null,
+    "front_shiny_female": null
+  },
+  "version_group": {
+    "name": "sun-moon",
+    "url": "/api/v2/version-group/17/"
+  },
+  "form_names": [
+    {
+      "name": "アローラのすがた",
+      "language": {
+        "name": "ja-hrkt",
+        "url": "/api/v2/language/1/"
+      }
+    },
+    {
+      "name": "알로라의 모습",
+      "language": {
+        "name": "ko",
+        "url": "/api/v2/language/3/"
+      }
+    },
+    {
+      "name": "阿羅拉的樣子",
+      "language": {
+        "name": "zh-hant",
+        "url": "/api/v2/language/4/"
+      }
+    },
+    {
+      "name": "Forme d’Alola",
+      "language": {
+        "name": "fr",
+        "url": "/api/v2/language/5/"
+      }
+    },
+    {
+      "name": "Alola-Form",
+      "language": {
+        "name": "de",
+        "url": "/api/v2/language/6/"
+      }
+    },
+    {
+      "name": "Forma de Alola",
+      "language": {
+        "name": "es",
+        "url": "/api/v2/language/7/"
+      }
+    },
+    {
+      "name": "Forma di Alola",
+      "language": {
+        "name": "it",
+        "url": "/api/v2/language/8/"
+      }
+    },
+    {
+      "name": "Alolan Form",
+      "language": {
+        "name": "en",
+        "url": "/api/v2/language/9/"
+      }
+    },
+    {
+      "name": "アローラのすがた",
+      "language": {
+        "name": "ja",
+        "url": "/api/v2/language/11/"
+      }
+    },
+    {
+      "name": "阿罗拉的样子",
+      "language": {
+        "name": "zh-hans",
+        "url": "/api/v2/language/12/"
+      }
+    },
+    {
+      "name": "Forma de Alola",
+      "language": {
+        "name": "es-419",
+        "url": "/api/v2/language/14/"
+      }
+    }
+  ],
+  "names": [
+    {
+      "name": "Raichu d’Alola",
+      "language": {
+        "name": "fr",
+        "url": "/api/v2/language/5/"
+      }
+    },
+    {
+      "name": "Alola Raichu",
+      "language": {
+        "name": "de",
+        "url": "/api/v2/language/6/"
+      }
+    },
+    {
+      "name": "Alolan Raichu",
+      "language": {
+        "name": "en",
+        "url": "/api/v2/language/9/"
+      }
+    }
+  ],
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "electric",
+        "url": "/api/v2/type/13/"
+      }
+    },
+    {
+      "slot": 2,
+      "type": {
+        "name": "psychic",
+        "url": "/api/v2/type/14/"
+      }
+    }
+  ],
+  "trigger_conditions": [],
+  "flavor_text_entries": [
+    {
+      "flavor_text": "It only evolves to this form in the Alola\nregion. According to researchers, its diet is\none of the causes of this change.",
+      "language": {
+        "name": "en",
+        "url": "/api/v2/language/9/"
+      },
+      "version": {
+        "name": "sun",
+        "url": "/api/v2/version/27/"
+      }
+    },
+    {
+      "flavor_text": "It uses psychokinesis to control electricity. It\nhops aboard its own tail, using psychic power to\nlift the tail and move about while riding it.",
+      "language": {
+        "name": "en",
+        "url": "/api/v2/language/9/"
+      },
+      "version": {
+        "name": "moon",
+        "url": "/api/v2/version/28/"
+      }
+    },
+    {
+      "flavor_text": "It focuses psychic energy into its tail and\nrides it like it’s surfing. Another name for\nthis Pokémon is “hodad.”",
+      "language": {
+        "name": "en",
+        "url": "/api/v2/language/9/"
+      },
+      "version": {
+        "name": "ultra-sun",
+        "url": "/api/v2/version/29/"
+      }
+    },
+    {
+      "flavor_text": "When you rub its cheeks, a sweet fragrance comes\nwafting out. However, you’ll also get a light\nshock!",
+      "language": {
+        "name": "en",
+        "url": "/api/v2/language/9/"
+      },
+      "version": {
+        "name": "ultra-moon",
+        "url": "/api/v2/version/30/"
+      }
+    },
+    {
+      "flavor_text": "It loves pancakes prepared with a secret Alolan\nrecipe. Some wonder whether that recipe holds\nthe key to this Pokémon’s evolution.",
+      "language": {
+        "name": "en",
+        "url": "/api/v2/language/9/"
+      },
+      "version": {
+        "name": "lets-go-pikachu",
+        "url": "/api/v2/version/31/"
+      }
+    },
+    {
+      "flavor_text": "It loves pancakes prepared with a secret Alolan\nrecipe. Some wonder whether that recipe holds\nthe key to this Pokémon’s evolution.",
+      "language": {
+        "name": "en",
+        "url": "/api/v2/language/9/"
+      },
+      "version": {
+        "name": "lets-go-eevee",
+        "url": "/api/v2/version/32/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "id": 10216,
+  "name": "exeggutor-alola",
+  "order": 167,
+  "form_order": 2,
+  "is_default": true,
+  "is_battle_only": false,
+  "is_mega": false,
+  "form_name": "alola",
+  "pokemon": {
+    "name": "exeggutor-alola",
+    "url": "/api/v2/pokemon/10114/"
+  },
+  "sprites": {
+    "versions": {
+      "generation-ix": {
+        "scarlet-violet": {
+          "front_female": null,
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/10114.png"
+        }
+      },
+      "generation-viii": {
+        "brilliant-diamond-shining-pearl": {
+          "front_female": null,
+          "front_default": null
+        }
+      }
+    },
+    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/10114.png",
+    "back_female": null,
+    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/10114.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10114.png",
+    "front_female": null,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10114.png",
+    "back_shiny_female": null,
+    "front_shiny_female": null
+  },
+  "version_group": {
+    "name": "sun-moon",
+    "url": "/api/v2/version-group/17/"
+  },
+  "form_names": [
+    {
+      "name": "アローラのすがた",
+      "language": {
+        "name": "ja-hrkt",
+        "url": "/api/v2/language/1/"
+      }
+    },
+    {
+      "name": "알로라의 모습",
+      "language": {
+        "name": "ko",
+        "url": "/api/v2/language/3/"
+      }
+    },
+    {
+      "name": "阿羅拉的樣子",
+      "language": {
+        "name": "zh-hant",
+        "url": "/api/v2/language/4/"
+      }
+    },
+    {
+      "name": "Forme d’Alola",
+      "language": {
+        "name": "fr",
+        "url": "/api/v2/language/5/"
+      }
+    },
+    {
+      "name": "Alola-Form",
+      "language": {
+        "name": "de",
+        "url": "/api/v2/language/6/"
+      }
+    },
+    {
+      "name": "Forma de Alola",
+      "language": {
+        "name": "es",
+        "url": "/api/v2/language/7/"
+      }
+    },
+    {
+      "name": "Forma di Alola",
+      "language": {
+        "name": "it",
+        "url": "/api/v2/language/8/"
+      }
+    },
+    {
+      "name": "Alolan Form",
+      "language": {
+        "name": "en",
+        "url": "/api/v2/language/9/"
+      }
+    },
+    {
+      "name": "アローラのすがた",
+      "language": {
+        "name": "ja",
+        "url": "/api/v2/language/11/"
+      }
+    },
+    {
+      "name": "阿罗拉的样子",
+      "language": {
+        "name": "zh-hans",
+        "url": "/api/v2/language/12/"
+      }
+    },
+    {
+      "name": "Forma de Alola",
+      "language": {
+        "name": "es-419",
+        "url": "/api/v2/language/14/"
+      }
+    }
+  ],
+  "names": [
+    {
+      "name": "Noadkoko d’Alola",
+      "language": {
+        "name": "fr",
+        "url": "/api/v2/language/5/"
+      }
+    },
+    {
+      "name": "Alola Kokowei",
+      "language": {
+        "name": "de",
+        "url": "/api/v2/language/6/"
+      }
+    },
+    {
+      "name": "Alolan Exeggutor",
+      "language": {
+        "name": "en",
+        "url": "/api/v2/language/9/"
+      }
+    }
+  ],
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "grass",
+        "url": "/api/v2/type/12/"
+      }
+    },
+    {
+      "slot": 2,
+      "type": {
+        "name": "dragon",
+        "url": "/api/v2/type/16/"
+      }
+    }
+  ],
+  "trigger_conditions": [],
+  "flavor_text_entries": [
+    {
+      "flavor_text": "Alola is the best environment for this Pokémon.\nLocal people take pride in its appearance,\nsaying this is how Exeggutor ought to look.",
+      "language": {
+        "name": "en",
+        "url": "/api/v2/language/9/"
+      },
+      "version": {
+        "name": "sun",
+        "url": "/api/v2/version/27/"
+      }
+    },
+    {
+      "flavor_text": "As it grew taller and taller, it outgrew its\nreliance on psychic powers, while within it\nawakened the power of the sleeping dragon.",
+      "language": {
+        "name": "en",
+        "url": "/api/v2/language/9/"
+      },
+      "version": {
+        "name": "moon",
+        "url": "/api/v2/version/28/"
+      }
+    },
+    {
+      "flavor_text": "Exeggutor is the pride of the Alolan people. Its\nimage is carved into historical buildings and\nmurals.",
+      "language": {
+        "name": "en",
+        "url": "/api/v2/language/9/"
+      },
+      "version": {
+        "name": "ultra-sun",
+        "url": "/api/v2/version/29/"
+      }
+    },
+    {
+      "flavor_text": "It swings its long neck like a whip and smacks\nits opponents. This makes Exeggutor itself\ndizzy, too.",
+      "language": {
+        "name": "en",
+        "url": "/api/v2/language/9/"
+      },
+      "version": {
+        "name": "ultra-moon",
+        "url": "/api/v2/version/30/"
+      }
+    },
+    {
+      "flavor_text": "The strong sunlight of the Alola region has\nawakened the power hidden within Exeggcute. This\nis the result.",
+      "language": {
+        "name": "en",
+        "url": "/api/v2/language/9/"
+      },
+      "version": {
+        "name": "lets-go-pikachu",
+        "url": "/api/v2/version/31/"
+      }
+    },
+    {
+      "flavor_text": "The strong sunlight of the Alola region has\nawakened the power hidden within Exeggcute. This\nis the result.",
+      "language": {
+        "name": "en",
+        "url": "/api/v2/language/9/"
+      },
+      "version": {
+        "name": "lets-go-eevee",
+        "url": "/api/v2/version/32/"
+      }
+    }
+  ]
+}
