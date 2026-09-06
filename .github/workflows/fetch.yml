@@ -25,12 +25,10 @@ jobs:
 
           git clone --depth 1 https://github.com/PokeAPI/api-data.git "$work/api-data"
           git clone --depth 1 https://github.com/PokeAPI/sprites.git "$work/sprites"
-          git clone --depth 1 https://github.com/PokeAPI/cries.git "$work/cries"
 
           rm -rf api sprites cries
           cp -a "$work/api-data/data/api" api
           cp -a "$work/sprites/sprites" sprites
-          cp -a "$work/cries/cries" cries
 
       - name: Commit changes
         run: |
