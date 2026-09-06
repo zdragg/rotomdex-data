@@ -1,0 +1,46 @@
+name: Fetch data
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "34 19 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fetch-data
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch PokeAPI data
+        run: |
+          work="$(mktemp -d)"
+
+          git clone --depth 1 https://github.com/PokeAPI/api-data.git "$work/api-data"
+          git clone --depth 1 https://github.com/PokeAPI/sprites.git "$work/sprites"
+          git clone --depth 1 https://github.com/PokeAPI/cries.git "$work/cries"
+
+          rm -rf api sprites cries
+          cp -a "$work/api-data/data/api" api
+          cp -a "$work/sprites/sprites" sprites
+          cp -a "$work/cries/cries" cries
+
+      - name: Commit changes
+        run: |
+          git add api sprites cries
+
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update PokeAPI data"
+          git push
