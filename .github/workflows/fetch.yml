@@ -1,4 +1,4 @@
-name: Fetch data
+name: Update data
 
 on:
   workflow_dispatch:
@@ -8,30 +8,36 @@ on:
 permissions:
   contents: write
 
-concurrency:
-  group: fetch-data
-  cancel-in-progress: false
-
 jobs:
-  fetch:
+  update:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
-      - name: Fetch PokeAPI data
+      - name: Update data
         run: |
           work="$(mktemp -d)"
 
-          git clone --depth 1 https://github.com/PokeAPI/api-data.git "$work/api-data"
-          git clone --depth 1 https://github.com/PokeAPI/sprites.git "$work/sprites"
+          git clone --depth 1 --filter=blob:none --sparse \
+            https://github.com/PokeAPI/api-data.git "$work/api-data"
+          git -C "$work/api-data" sparse-checkout set data/api/v2
+
+          git clone --depth 1 --filter=blob:none --sparse \
+            https://github.com/PokeAPI/sprites.git "$work/sprites"
+          git -C "$work/sprites" sparse-checkout set --no-cone \
+            '/sprites/pokemon/*.png' \
+            '/sprites/pokemon/other/showdown/*.gif'
+
+          git clone --depth 1 --filter=blob:none --sparse \
+            https://github.com/PokeAPI/cries.git "$work/cries"
+          git -C "$work/cries" sparse-checkout set cries
 
           rm -rf api sprites cries
           cp -a "$work/api-data/data/api" api
           cp -a "$work/sprites/sprites" sprites
+          cp -a "$work/cries/cries" cries
 
-      - name: Commit changes
-        run: |
           git add api sprites cries
 
           if git diff --cached --quiet; then
