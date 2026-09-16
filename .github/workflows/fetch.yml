@@ -16,31 +16,47 @@ jobs:
     steps:
       - uses: actions/checkout@v7
 
-      - name: Update data
+      - name: Build data
         run: |
-          work="$(mktemp -d)"
+          git clone --depth 1 --filter=blob:none --sparse \
+            https://github.com/PokeAPI/api-data.git "$RUNNER_TEMP/api-data"
+          git -C "$RUNNER_TEMP/api-data" sparse-checkout set --no-cone \
+            '/data/api/v2/**'
 
           git clone --depth 1 --filter=blob:none --sparse \
-            https://github.com/PokeAPI/api-data.git "$work/api-data"
-          git -C "$work/api-data" sparse-checkout set data/api/v2
-
-          git clone --depth 1 --filter=blob:none --sparse \
-            https://github.com/PokeAPI/sprites.git "$work/sprites"
-          git -C "$work/sprites" sparse-checkout set --no-cone \
+            https://github.com/PokeAPI/sprites.git "$RUNNER_TEMP/sprites"
+          git -C "$RUNNER_TEMP/sprites" sparse-checkout set --no-cone \
             '/sprites/pokemon/*.png' \
             '/sprites/pokemon/other/showdown/*.gif'
 
           rm -rf api sprites
-          cp -a "$work/api-data/data/api" api
-          cp -a "$work/sprites/sprites" sprites
+          mv "$RUNNER_TEMP/api-data/data/api" api
+          mv "$RUNNER_TEMP/sprites/sprites" sprites
 
-          git add api sprites
+      - name: Generate manifest
+        shell: python
+        run: |
+          from hashlib import file_digest
+          from json import dumps
+          from pathlib import Path
 
-          if git diff --cached --quiet; then
-            exit 0
-          fi
+          manifest = {}
 
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -m "Update PokeAPI data"
+          for root in ("api", "sprites"):
+              for path in Path(root).rglob("*"):
+                  if path.is_file():
+                      with path.open("rb") as file:
+                          manifest[path.as_posix()] = file_digest(file, "sha256").hexdigest()
+
+          Path("manifest.json").write_text(dumps(manifest, sort_keys=True))
+
+      - name: Commit changes
+        run: |
+          git add api sprites manifest.json
+          git diff --cached --quiet && exit 0
+
+          git -c user.name="github-actions[bot]" \
+              -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+              commit -m "Update PokeAPI data"
+
           git push
