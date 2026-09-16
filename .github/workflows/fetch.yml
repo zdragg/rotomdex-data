@@ -29,7 +29,7 @@ jobs:
             '/sprites/pokemon/*.png' \
             '/sprites/pokemon/other/showdown/*.gif'
 
-          rm -rf api sprites cries
+          rm -rf api sprites
           cp -a "$work/api-data/data/api" api
           cp -a "$work/sprites/sprites" sprites
 
