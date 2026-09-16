@@ -29,16 +29,11 @@ jobs:
             '/sprites/pokemon/*.png' \
             '/sprites/pokemon/other/showdown/*.gif'
 
-          git clone --depth 1 --filter=blob:none --sparse \
-            https://github.com/PokeAPI/cries.git "$work/cries"
-          git -C "$work/cries" sparse-checkout set cries
-
           rm -rf api sprites cries
           cp -a "$work/api-data/data/api" api
           cp -a "$work/sprites/sprites" sprites
-          cp -a "$work/cries/cries" cries
 
-          git add api sprites cries
+          git add api sprites
 
           if git diff --cached --quiet; then
             exit 0
