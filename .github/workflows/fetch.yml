@@ -33,26 +33,9 @@ jobs:
           mv "$RUNNER_TEMP/api-data/data/api" api
           mv "$RUNNER_TEMP/sprites/sprites" sprites
 
-      - name: Generate manifest
-        shell: python
-        run: |
-          from hashlib import file_digest
-          from json import dumps
-          from pathlib import Path
-
-          manifest = {}
-
-          for root in ("api", "sprites"):
-              for path in Path(root).rglob("*"):
-                  if path.is_file():
-                      with path.open("rb") as file:
-                          manifest[path.as_posix()] = file_digest(file, "sha256").hexdigest()
-
-          Path("manifest.json").write_text(dumps(manifest, sort_keys=True, indent=2) + "\n")
-
       - name: Commit changes
         run: |
-          git add api sprites manifest.json
+          git add api sprites
           git diff --cached --quiet && exit 0
 
           git -c user.name="github-actions[bot]" \
