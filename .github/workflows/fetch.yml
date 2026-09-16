@@ -1,6 +1,7 @@
 name: Update data
 
 on:
+  push:
   workflow_dispatch:
   schedule:
     - cron: "34 19 * * *"
