@@ -48,7 +48,7 @@ jobs:
                       with path.open("rb") as file:
                           manifest[path.as_posix()] = file_digest(file, "sha256").hexdigest()
 
-          Path("manifest.json").write_text(dumps(manifest, sort_keys=True))
+          Path("manifest.json").write_text(dumps(manifest, sort_keys=True, indent=2) + "\n")
 
       - name: Commit changes
         run: |
