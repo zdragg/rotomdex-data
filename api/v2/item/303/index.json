@@ -957,7 +957,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/razor-claw.png"
+    "default": "/sprites/items/razor-claw.png"
   },
   "baby_trigger_for": null,
   "machines": []

@@ -835,7 +835,7 @@
   ],
   "held_by_pokemon": [],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dowsing-machine.png"
+    "default": "/sprites/items/dowsing-machine.png"
   },
   "baby_trigger_for": null,
   "machines": []

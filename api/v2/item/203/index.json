@@ -1379,7 +1379,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/deep-sea-tooth.png"
+    "default": "/sprites/items/deep-sea-tooth.png"
   },
   "baby_trigger_for": null,
   "machines": []

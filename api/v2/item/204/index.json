@@ -1449,7 +1449,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/deep-sea-scale.png"
+    "default": "/sprites/items/deep-sea-scale.png"
   },
   "baby_trigger_for": null,
   "machines": []

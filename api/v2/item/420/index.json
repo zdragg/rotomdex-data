@@ -832,7 +832,7 @@
   ],
   "held_by_pokemon": [],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/vs-seeker.png"
+    "default": "/sprites/items/vs-seeker.png"
   },
   "baby_trigger_for": null,
   "machines": []

@@ -1495,7 +1495,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/never-melt-ice.png"
+    "default": "/sprites/items/never-melt-ice.png"
   },
   "baby_trigger_for": null,
   "machines": []

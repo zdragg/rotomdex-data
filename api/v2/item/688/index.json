@@ -774,7 +774,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/luminous-moss.png"
+    "default": "/sprites/items/luminous-moss.png"
   },
   "baby_trigger_for": null,
   "machines": []

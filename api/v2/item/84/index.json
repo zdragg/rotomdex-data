@@ -862,7 +862,7 @@
   ],
   "held_by_pokemon": [],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/water-stone.png"
+    "default": "/sprites/items/water-stone.png"
   },
   "baby_trigger_for": null,
   "machines": []

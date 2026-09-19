@@ -1534,7 +1534,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/soft-sand.png"
+    "default": "/sprites/items/soft-sand.png"
   },
   "baby_trigger_for": null,
   "machines": []

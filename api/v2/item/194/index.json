@@ -1800,7 +1800,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/quick-claw.png"
+    "default": "/sprites/items/quick-claw.png"
   },
   "baby_trigger_for": null,
   "machines": []

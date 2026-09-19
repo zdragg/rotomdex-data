@@ -1449,7 +1449,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/chesto-berry.png"
+    "default": "/sprites/items/chesto-berry.png"
   },
   "baby_trigger_for": null,
   "machines": []

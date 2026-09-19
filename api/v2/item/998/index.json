@@ -496,7 +496,7 @@
   ],
   "held_by_pokemon": [],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roto-exp-points.png"
+    "default": "/sprites/items/roto-exp-points.png"
   },
   "baby_trigger_for": null,
   "machines": []

@@ -1882,7 +1882,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dragon-scale.png"
+    "default": "/sprites/items/dragon-scale.png"
   },
   "baby_trigger_for": null,
   "machines": []

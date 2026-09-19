@@ -723,7 +723,7 @@
   ],
   "held_by_pokemon": [],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/boost-mulch.png"
+    "default": "/sprites/items/boost-mulch.png"
   },
   "baby_trigger_for": null,
   "machines": []

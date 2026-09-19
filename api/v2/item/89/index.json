@@ -1514,7 +1514,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/big-pearl.png"
+    "default": "/sprites/items/big-pearl.png"
   },
   "baby_trigger_for": null,
   "machines": []

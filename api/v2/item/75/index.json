@@ -892,7 +892,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/green-shard.png"
+    "default": "/sprites/items/green-shard.png"
   },
   "baby_trigger_for": null,
   "machines": []

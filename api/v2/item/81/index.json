@@ -1583,7 +1583,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/moon-stone.png"
+    "default": "/sprites/items/moon-stone.png"
   },
   "baby_trigger_for": null,
   "machines": []

@@ -1778,7 +1778,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/star-piece.png"
+    "default": "/sprites/items/star-piece.png"
   },
   "baby_trigger_for": null,
   "machines": []

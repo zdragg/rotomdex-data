@@ -1697,7 +1697,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rawst-berry.png"
+    "default": "/sprites/items/rawst-berry.png"
   },
   "baby_trigger_for": null,
   "machines": []

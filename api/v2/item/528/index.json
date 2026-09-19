@@ -664,7 +664,7 @@
   ],
   "held_by_pokemon": [],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/acro-bike.png"
+    "default": "/sprites/items/acro-bike.png"
   },
   "baby_trigger_for": null,
   "machines": []

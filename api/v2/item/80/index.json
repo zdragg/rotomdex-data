@@ -1018,7 +1018,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sun-stone.png"
+    "default": "/sprites/items/sun-stone.png"
   },
   "baby_trigger_for": null,
   "machines": []

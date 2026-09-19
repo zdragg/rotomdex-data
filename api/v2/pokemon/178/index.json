@@ -12504,28 +12504,28 @@
   "sprites": {
     "other": {
       "home": {
-        "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/178.png",
-        "front_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/female/178.png",
-        "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/178.png",
-        "front_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/shiny/female/178.png"
+        "front_shiny": "/sprites/pokemon/other/home/shiny/178.png",
+        "front_female": "/sprites/pokemon/other/home/female/178.png",
+        "front_default": "/sprites/pokemon/other/home/178.png",
+        "front_shiny_female": "/sprites/pokemon/other/home/shiny/female/178.png"
       },
       "showdown": {
-        "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/back/shiny/178.gif",
-        "back_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/back/female/178.gif",
-        "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/shiny/178.gif",
-        "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/back/178.gif",
-        "front_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/female/178.gif",
-        "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/178.gif",
+        "back_shiny": "/sprites/pokemon/other/showdown/back/shiny/178.gif",
+        "back_female": "/sprites/pokemon/other/showdown/back/female/178.gif",
+        "front_shiny": "/sprites/pokemon/other/showdown/shiny/178.gif",
+        "back_default": "/sprites/pokemon/other/showdown/back/178.gif",
+        "front_female": "/sprites/pokemon/other/showdown/female/178.gif",
+        "front_default": "/sprites/pokemon/other/showdown/178.gif",
         "back_shiny_female": null,
-        "front_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/shiny/female/178.gif"
+        "front_shiny_female": "/sprites/pokemon/other/showdown/shiny/female/178.gif"
       },
       "dream_world": {
         "front_female": null,
-        "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/178.svg"
+        "front_default": "/sprites/pokemon/other/dream-world/178.svg"
       },
       "official-artwork": {
-        "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/178.png",
-        "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/178.png"
+        "front_shiny": "/sprites/pokemon/other/official-artwork/shiny/178.png",
+        "front_default": "/sprites/pokemon/other/official-artwork/178.png"
       }
     },
     "versions": {
@@ -12550,91 +12550,91 @@
       "generation-v": {
         "icons": {
           "animated": {
-            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/icons/animated/178.png"
+            "front_default": "/sprites/pokemon/versions/generation-v/icons/animated/178.png"
           },
-          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/icons/178.png"
+          "front_default": "/sprites/pokemon/versions/generation-v/icons/178.png"
         },
         "black-white": {
           "animated": {
-            "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/shiny/178.gif",
-            "back_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/female/178.gif",
-            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/shiny/178.gif",
-            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/178.gif",
-            "front_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/female/178.gif",
-            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/178.gif",
-            "back_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/shiny/female/178.gif",
-            "front_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/shiny/female/178.gif"
+            "back_shiny": "/sprites/pokemon/versions/generation-v/black-white/animated/back/shiny/178.gif",
+            "back_female": "/sprites/pokemon/versions/generation-v/black-white/animated/back/female/178.gif",
+            "front_shiny": "/sprites/pokemon/versions/generation-v/black-white/animated/shiny/178.gif",
+            "back_default": "/sprites/pokemon/versions/generation-v/black-white/animated/back/178.gif",
+            "front_female": "/sprites/pokemon/versions/generation-v/black-white/animated/female/178.gif",
+            "front_default": "/sprites/pokemon/versions/generation-v/black-white/animated/178.gif",
+            "back_shiny_female": "/sprites/pokemon/versions/generation-v/black-white/animated/back/shiny/female/178.gif",
+            "front_shiny_female": "/sprites/pokemon/versions/generation-v/black-white/animated/shiny/female/178.gif"
           },
-          "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/back/shiny/178.png",
-          "back_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/back/female/178.png",
-          "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/178.png",
-          "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/back/178.png",
-          "front_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/female/178.png",
-          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/178.png",
-          "back_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/back/shiny/female/178.png",
-          "front_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/female/178.png"
+          "back_shiny": "/sprites/pokemon/versions/generation-v/black-white/back/shiny/178.png",
+          "back_female": "/sprites/pokemon/versions/generation-v/black-white/back/female/178.png",
+          "front_shiny": "/sprites/pokemon/versions/generation-v/black-white/shiny/178.png",
+          "back_default": "/sprites/pokemon/versions/generation-v/black-white/back/178.png",
+          "front_female": "/sprites/pokemon/versions/generation-v/black-white/female/178.png",
+          "front_default": "/sprites/pokemon/versions/generation-v/black-white/178.png",
+          "back_shiny_female": "/sprites/pokemon/versions/generation-v/black-white/back/shiny/female/178.png",
+          "front_shiny_female": "/sprites/pokemon/versions/generation-v/black-white/shiny/female/178.png"
         }
       },
       "generation-ii": {
         "gold": {
-          "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/gold/back/shiny/178.png",
-          "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/gold/shiny/178.png",
-          "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/gold/back/178.png",
-          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/gold/178.png",
-          "front_transparent": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/gold/transparent/178.png"
+          "back_shiny": "/sprites/pokemon/versions/generation-ii/gold/back/shiny/178.png",
+          "front_shiny": "/sprites/pokemon/versions/generation-ii/gold/shiny/178.png",
+          "back_default": "/sprites/pokemon/versions/generation-ii/gold/back/178.png",
+          "front_default": "/sprites/pokemon/versions/generation-ii/gold/178.png",
+          "front_transparent": "/sprites/pokemon/versions/generation-ii/gold/transparent/178.png"
         },
         "silver": {
-          "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/silver/back/shiny/178.png",
-          "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/silver/shiny/178.png",
-          "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/silver/back/178.png",
-          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/silver/178.png",
-          "front_transparent": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/silver/transparent/178.png"
+          "back_shiny": "/sprites/pokemon/versions/generation-ii/silver/back/shiny/178.png",
+          "front_shiny": "/sprites/pokemon/versions/generation-ii/silver/shiny/178.png",
+          "back_default": "/sprites/pokemon/versions/generation-ii/silver/back/178.png",
+          "front_default": "/sprites/pokemon/versions/generation-ii/silver/178.png",
+          "front_transparent": "/sprites/pokemon/versions/generation-ii/silver/transparent/178.png"
         },
         "crystal": {
           "animated": {
-            "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/animated/shiny/178.gif",
-            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/animated/178.gif"
+            "front_shiny": "/sprites/pokemon/versions/generation-ii/crystal/animated/shiny/178.gif",
+            "front_default": "/sprites/pokemon/versions/generation-ii/crystal/animated/178.gif"
           },
-          "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/back/shiny/178.png",
-          "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/178.png",
-          "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/back/178.png",
-          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/178.png",
-          "back_transparent": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/transparent/back/178.png",
-          "front_transparent": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/transparent/178.png",
-          "back_shiny_transparent": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/transparent/back/shiny/178.png",
-          "front_shiny_transparent": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/transparent/shiny/178.png"
+          "back_shiny": "/sprites/pokemon/versions/generation-ii/crystal/back/shiny/178.png",
+          "front_shiny": "/sprites/pokemon/versions/generation-ii/crystal/shiny/178.png",
+          "back_default": "/sprites/pokemon/versions/generation-ii/crystal/back/178.png",
+          "front_default": "/sprites/pokemon/versions/generation-ii/crystal/178.png",
+          "back_transparent": "/sprites/pokemon/versions/generation-ii/crystal/transparent/back/178.png",
+          "front_transparent": "/sprites/pokemon/versions/generation-ii/crystal/transparent/178.png",
+          "back_shiny_transparent": "/sprites/pokemon/versions/generation-ii/crystal/transparent/back/shiny/178.png",
+          "front_shiny_transparent": "/sprites/pokemon/versions/generation-ii/crystal/transparent/shiny/178.png"
         }
       },
       "generation-iv": {
         "platinum": {
-          "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/platinum/back/shiny/178.png",
-          "back_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/platinum/back/female/178.png",
-          "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/platinum/shiny/178.png",
-          "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/platinum/back/178.png",
-          "front_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/platinum/female/178.png",
-          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/platinum/178.png",
-          "back_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/platinum/back/shiny/female/178.png",
-          "front_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/platinum/shiny/female/178.png"
+          "back_shiny": "/sprites/pokemon/versions/generation-iv/platinum/back/shiny/178.png",
+          "back_female": "/sprites/pokemon/versions/generation-iv/platinum/back/female/178.png",
+          "front_shiny": "/sprites/pokemon/versions/generation-iv/platinum/shiny/178.png",
+          "back_default": "/sprites/pokemon/versions/generation-iv/platinum/back/178.png",
+          "front_female": "/sprites/pokemon/versions/generation-iv/platinum/female/178.png",
+          "front_default": "/sprites/pokemon/versions/generation-iv/platinum/178.png",
+          "back_shiny_female": "/sprites/pokemon/versions/generation-iv/platinum/back/shiny/female/178.png",
+          "front_shiny_female": "/sprites/pokemon/versions/generation-iv/platinum/shiny/female/178.png"
         },
         "diamond-pearl": {
-          "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/diamond-pearl/back/shiny/178.png",
-          "back_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/diamond-pearl/back/female/178.png",
-          "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/diamond-pearl/shiny/178.png",
-          "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/diamond-pearl/back/178.png",
-          "front_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/diamond-pearl/female/178.png",
-          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/diamond-pearl/178.png",
-          "back_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/diamond-pearl/back/shiny/female/178.png",
-          "front_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/diamond-pearl/shiny/female/178.png"
+          "back_shiny": "/sprites/pokemon/versions/generation-iv/diamond-pearl/back/shiny/178.png",
+          "back_female": "/sprites/pokemon/versions/generation-iv/diamond-pearl/back/female/178.png",
+          "front_shiny": "/sprites/pokemon/versions/generation-iv/diamond-pearl/shiny/178.png",
+          "back_default": "/sprites/pokemon/versions/generation-iv/diamond-pearl/back/178.png",
+          "front_female": "/sprites/pokemon/versions/generation-iv/diamond-pearl/female/178.png",
+          "front_default": "/sprites/pokemon/versions/generation-iv/diamond-pearl/178.png",
+          "back_shiny_female": "/sprites/pokemon/versions/generation-iv/diamond-pearl/back/shiny/female/178.png",
+          "front_shiny_female": "/sprites/pokemon/versions/generation-iv/diamond-pearl/shiny/female/178.png"
         },
         "heartgold-soulsilver": {
-          "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/back/shiny/178.png",
-          "back_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/back/female/178.png",
-          "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/shiny/178.png",
-          "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/back/178.png",
-          "front_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/female/178.png",
-          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/178.png",
-          "back_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/back/shiny/female/178.png",
-          "front_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/shiny/female/178.png"
+          "back_shiny": "/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/back/shiny/178.png",
+          "back_female": "/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/back/female/178.png",
+          "front_shiny": "/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/shiny/178.png",
+          "back_default": "/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/back/178.png",
+          "front_female": "/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/female/178.png",
+          "front_default": "/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/178.png",
+          "back_shiny_female": "/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/back/shiny/female/178.png",
+          "front_shiny_female": "/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/shiny/female/178.png"
         }
       },
       "generation-ix": {
@@ -12645,71 +12645,71 @@
       },
       "generation-vi": {
         "x-y": {
-          "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vi/x-y/shiny/178.png",
-          "front_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vi/x-y/female/178.png",
-          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vi/x-y/178.png",
-          "front_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vi/x-y/shiny/female/178.png"
+          "front_shiny": "/sprites/pokemon/versions/generation-vi/x-y/shiny/178.png",
+          "front_female": "/sprites/pokemon/versions/generation-vi/x-y/female/178.png",
+          "front_default": "/sprites/pokemon/versions/generation-vi/x-y/178.png",
+          "front_shiny_female": "/sprites/pokemon/versions/generation-vi/x-y/shiny/female/178.png"
         },
         "omegaruby-alphasapphire": {
-          "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vi/omegaruby-alphasapphire/shiny/178.png",
-          "front_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vi/omegaruby-alphasapphire/female/178.png",
-          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vi/omegaruby-alphasapphire/178.png",
-          "front_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vi/omegaruby-alphasapphire/shiny/female/178.png"
+          "front_shiny": "/sprites/pokemon/versions/generation-vi/omegaruby-alphasapphire/shiny/178.png",
+          "front_female": "/sprites/pokemon/versions/generation-vi/omegaruby-alphasapphire/female/178.png",
+          "front_default": "/sprites/pokemon/versions/generation-vi/omegaruby-alphasapphire/178.png",
+          "front_shiny_female": "/sprites/pokemon/versions/generation-vi/omegaruby-alphasapphire/shiny/female/178.png"
         }
       },
       "generation-iii": {
         "emerald": {
-          "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iii/emerald/shiny/178.png",
-          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iii/emerald/178.png"
+          "front_shiny": "/sprites/pokemon/versions/generation-iii/emerald/shiny/178.png",
+          "front_default": "/sprites/pokemon/versions/generation-iii/emerald/178.png"
         },
         "ruby-sapphire": {
-          "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iii/ruby-sapphire/back/shiny/178.png",
-          "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iii/ruby-sapphire/shiny/178.png",
-          "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iii/ruby-sapphire/back/178.png",
-          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iii/ruby-sapphire/178.png"
+          "back_shiny": "/sprites/pokemon/versions/generation-iii/ruby-sapphire/back/shiny/178.png",
+          "front_shiny": "/sprites/pokemon/versions/generation-iii/ruby-sapphire/shiny/178.png",
+          "back_default": "/sprites/pokemon/versions/generation-iii/ruby-sapphire/back/178.png",
+          "front_default": "/sprites/pokemon/versions/generation-iii/ruby-sapphire/178.png"
         },
         "firered-leafgreen": {
-          "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iii/firered-leafgreen/back/shiny/178.png",
-          "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iii/firered-leafgreen/shiny/178.png",
-          "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iii/firered-leafgreen/back/178.png",
-          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iii/firered-leafgreen/178.png"
+          "back_shiny": "/sprites/pokemon/versions/generation-iii/firered-leafgreen/back/shiny/178.png",
+          "front_shiny": "/sprites/pokemon/versions/generation-iii/firered-leafgreen/shiny/178.png",
+          "back_default": "/sprites/pokemon/versions/generation-iii/firered-leafgreen/back/178.png",
+          "front_default": "/sprites/pokemon/versions/generation-iii/firered-leafgreen/178.png"
         }
       },
       "generation-vii": {
         "icons": {
           "front_female": null,
-          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/icons/178.png"
+          "front_default": "/sprites/pokemon/versions/generation-vii/icons/178.png"
         },
         "ultra-sun-ultra-moon": {
-          "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/178.png",
-          "front_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/female/178.png",
-          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/178.png",
-          "front_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/female/178.png"
+          "front_shiny": "/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/178.png",
+          "front_female": "/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/female/178.png",
+          "front_default": "/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/178.png",
+          "front_shiny_female": "/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/female/178.png"
         }
       },
       "generation-viii": {
         "icons": {
           "front_female": null,
-          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-viii/icons/178.png"
+          "front_default": "/sprites/pokemon/versions/generation-viii/icons/178.png"
         },
         "brilliant-diamond-shining-pearl": {
           "front_female": null,
-          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-viii/brilliant-diamond-shining-pearl/178.png"
+          "front_default": "/sprites/pokemon/versions/generation-viii/brilliant-diamond-shining-pearl/178.png"
         }
       }
     },
-    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/178.png",
-    "back_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/178.png",
-    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/178.png",
-    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/178.png",
-    "front_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/178.png",
-    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/178.png",
-    "back_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/178.png",
-    "front_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/178.png"
+    "back_shiny": "/sprites/pokemon/back/shiny/178.png",
+    "back_female": "/sprites/pokemon/back/female/178.png",
+    "front_shiny": "/sprites/pokemon/shiny/178.png",
+    "back_default": "/sprites/pokemon/back/178.png",
+    "front_female": "/sprites/pokemon/female/178.png",
+    "front_default": "/sprites/pokemon/178.png",
+    "back_shiny_female": "/sprites/pokemon/back/shiny/female/178.png",
+    "front_shiny_female": "/sprites/pokemon/shiny/female/178.png"
   },
   "cries": {
-    "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/178.ogg",
-    "legacy": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/178.ogg"
+    "latest": "/cries/pokemon/latest/178.ogg",
+    "legacy": "/cries/pokemon/legacy/178.ogg"
   },
   "stats": [
     {

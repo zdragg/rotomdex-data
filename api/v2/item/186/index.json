@@ -811,7 +811,7 @@
   ],
   "held_by_pokemon": [],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/micle-berry.png"
+    "default": "/sprites/items/micle-berry.png"
   },
   "baby_trigger_for": null,
   "machines": []

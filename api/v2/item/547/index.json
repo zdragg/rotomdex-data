@@ -418,7 +418,7 @@
   ],
   "held_by_pokemon": [],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lift-key.png"
+    "default": "/sprites/items/lift-key.png"
   },
   "baby_trigger_for": null,
   "machines": []

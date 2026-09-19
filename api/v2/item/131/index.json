@@ -1454,7 +1454,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/leppa-berry.png"
+    "default": "/sprites/items/leppa-berry.png"
   },
   "baby_trigger_for": null,
   "machines": []

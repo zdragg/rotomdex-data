@@ -839,7 +839,7 @@
   ],
   "held_by_pokemon": [],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/town-map.png"
+    "default": "/sprites/items/town-map.png"
   },
   "baby_trigger_for": null,
   "machines": []

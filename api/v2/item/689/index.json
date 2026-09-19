@@ -846,7 +846,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/snowball.png"
+    "default": "/sprites/items/snowball.png"
   },
   "baby_trigger_for": null,
   "machines": []

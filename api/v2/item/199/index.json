@@ -1899,7 +1899,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/silver-powder.png"
+    "default": "/sprites/items/silver-powder.png"
   },
   "baby_trigger_for": null,
   "machines": []

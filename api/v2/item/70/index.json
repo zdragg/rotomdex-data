@@ -848,7 +848,7 @@
   ],
   "held_by_pokemon": [],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/shoal-salt.png"
+    "default": "/sprites/items/shoal-salt.png"
   },
   "baby_trigger_for": null,
   "machines": []

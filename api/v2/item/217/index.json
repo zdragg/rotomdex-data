@@ -983,7 +983,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/black-glasses.png"
+    "default": "/sprites/items/black-glasses.png"
   },
   "baby_trigger_for": null,
   "machines": []

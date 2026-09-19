@@ -1194,7 +1194,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lagging-tail.png"
+    "default": "/sprites/items/lagging-tail.png"
   },
   "baby_trigger_for": null,
   "machines": []

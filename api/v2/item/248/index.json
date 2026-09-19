@@ -963,7 +963,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/power-herb.png"
+    "default": "/sprites/items/power-herb.png"
   },
   "baby_trigger_for": null,
   "machines": []

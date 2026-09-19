@@ -723,7 +723,7 @@
   ],
   "held_by_pokemon": [],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/banettite.png"
+    "default": "/sprites/items/banettite.png"
   },
   "baby_trigger_for": null,
   "machines": []

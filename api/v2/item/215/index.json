@@ -2253,7 +2253,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hard-stone.png"
+    "default": "/sprites/items/hard-stone.png"
   },
   "baby_trigger_for": null,
   "machines": []

@@ -935,7 +935,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/yellow-shard.png"
+    "default": "/sprites/items/yellow-shard.png"
   },
   "baby_trigger_for": null,
   "machines": []

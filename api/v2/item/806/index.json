@@ -624,7 +624,7 @@
   ],
   "held_by_pokemon": [],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/prison-bottle.png"
+    "default": "/sprites/items/prison-bottle.png"
   },
   "baby_trigger_for": null,
   "machines": []

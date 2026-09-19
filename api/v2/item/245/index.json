@@ -885,7 +885,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/expert-belt.png"
+    "default": "/sprites/items/expert-belt.png"
   },
   "baby_trigger_for": null,
   "machines": []

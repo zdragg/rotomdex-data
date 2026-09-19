@@ -1457,7 +1457,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dragon-fang.png"
+    "default": "/sprites/items/dragon-fang.png"
   },
   "baby_trigger_for": null,
   "machines": []

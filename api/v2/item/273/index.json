@@ -1067,7 +1067,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/big-root.png"
+    "default": "/sprites/items/big-root.png"
   },
   "baby_trigger_for": null,
   "machines": []

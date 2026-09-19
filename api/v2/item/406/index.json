@@ -803,7 +803,7 @@
   ],
   "held_by_pokemon": [],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/loot-sack.png"
+    "default": "/sprites/items/loot-sack.png"
   },
   "baby_trigger_for": null,
   "machines": []

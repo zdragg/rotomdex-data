@@ -1022,7 +1022,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/oval-stone.png"
+    "default": "/sprites/items/oval-stone.png"
   },
   "baby_trigger_for": null,
   "machines": []

@@ -992,7 +992,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/berry-juice.png"
+    "default": "/sprites/items/berry-juice.png"
   },
   "baby_trigger_for": null,
   "machines": []

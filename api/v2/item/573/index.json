@@ -763,7 +763,7 @@
   ],
   "held_by_pokemon": [],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/like-mail.png"
+    "default": "/sprites/items/like-mail.png"
   },
   "baby_trigger_for": null,
   "machines": []

@@ -139,7 +139,7 @@
     },
     "generation-ix": {
       "scarlet-violet": {
-        "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-ix/scarlet-violet/19.png",
+        "name_icon": "/sprites/types/generation-ix/scarlet-violet/19.png",
         "symbol_icon": null
       }
     },

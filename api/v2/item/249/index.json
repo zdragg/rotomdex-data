@@ -838,7 +838,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/toxic-orb.png"
+    "default": "/sprites/items/toxic-orb.png"
   },
   "baby_trigger_for": null,
   "machines": []

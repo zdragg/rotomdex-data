@@ -812,7 +812,7 @@
   ],
   "held_by_pokemon": [],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/luck-incense.png"
+    "default": "/sprites/items/luck-incense.png"
   },
   "baby_trigger_for": {
     "url": "/api/v2/evolution-chain/51/"

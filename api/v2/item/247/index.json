@@ -857,7 +857,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/life-orb.png"
+    "default": "/sprites/items/life-orb.png"
   },
   "baby_trigger_for": null,
   "machines": []

@@ -788,7 +788,7 @@
   ],
   "held_by_pokemon": [],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/clear-bell.png"
+    "default": "/sprites/items/clear-bell.png"
   },
   "baby_trigger_for": null,
   "machines": []

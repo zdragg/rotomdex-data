@@ -1251,7 +1251,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sticky-barb.png"
+    "default": "/sprites/items/sticky-barb.png"
   },
   "baby_trigger_for": null,
   "machines": []

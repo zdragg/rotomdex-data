@@ -864,7 +864,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pretty-wing.png"
+    "default": "/sprites/items/pretty-wing.png"
   },
   "baby_trigger_for": null,
   "machines": []

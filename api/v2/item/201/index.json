@@ -956,7 +956,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/cleanse-tag.png"
+    "default": "/sprites/items/cleanse-tag.png"
   },
   "baby_trigger_for": null,
   "machines": []

@@ -1228,7 +1228,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lucky-egg.png"
+    "default": "/sprites/items/lucky-egg.png"
   },
   "baby_trigger_for": null,
   "machines": []

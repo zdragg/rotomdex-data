@@ -630,7 +630,7 @@
   ],
   "held_by_pokemon": [],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/beast-ball.png"
+    "default": "/sprites/items/beast-ball.png"
   },
   "baby_trigger_for": null,
   "machines": []

@@ -1404,7 +1404,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sharp-beak.png"
+    "default": "/sprites/items/sharp-beak.png"
   },
   "baby_trigger_for": null,
   "machines": []

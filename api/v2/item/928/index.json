@@ -382,7 +382,7 @@
   ],
   "held_by_pokemon": [],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/holo-caster--green.png"
+    "default": "/sprites/items/holo-caster--green.png"
   },
   "baby_trigger_for": null,
   "machines": []

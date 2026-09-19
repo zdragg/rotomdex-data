@@ -22,18 +22,18 @@
       "generation-viii": {
         "brilliant-diamond-shining-pearl": {
           "front_female": null,
-          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-viii/brilliant-diamond-shining-pearl/20.png"
+          "front_default": "/sprites/pokemon/versions/generation-viii/brilliant-diamond-shining-pearl/20.png"
         }
       }
     },
-    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/20.png",
-    "back_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/20.png",
-    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/20.png",
-    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/20.png",
-    "front_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/20.png",
-    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png",
-    "back_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/20.png",
-    "front_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/20.png"
+    "back_shiny": "/sprites/pokemon/back/shiny/20.png",
+    "back_female": "/sprites/pokemon/back/female/20.png",
+    "front_shiny": "/sprites/pokemon/shiny/20.png",
+    "back_default": "/sprites/pokemon/back/20.png",
+    "front_female": "/sprites/pokemon/female/20.png",
+    "front_default": "/sprites/pokemon/20.png",
+    "back_shiny_female": "/sprites/pokemon/back/shiny/female/20.png",
+    "front_shiny_female": "/sprites/pokemon/shiny/female/20.png"
   },
   "version_group": {
     "name": "red-green-japan",

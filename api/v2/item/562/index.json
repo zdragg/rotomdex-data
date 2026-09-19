@@ -102,7 +102,7 @@
   ],
   "held_by_pokemon": [],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/old-sea-map.png"
+    "default": "/sprites/items/old-sea-map.png"
   },
   "baby_trigger_for": null,
   "machines": []

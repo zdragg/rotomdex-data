@@ -1486,7 +1486,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sitrus-berry.png"
+    "default": "/sprites/items/sitrus-berry.png"
   },
   "baby_trigger_for": null,
   "machines": []

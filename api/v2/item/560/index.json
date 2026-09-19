@@ -113,7 +113,7 @@
   ],
   "held_by_pokemon": [],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sapphire.png"
+    "default": "/sprites/items/sapphire.png"
   },
   "baby_trigger_for": null,
   "machines": []

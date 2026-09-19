@@ -723,7 +723,7 @@
   ],
   "held_by_pokemon": [],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/medichamite.png"
+    "default": "/sprites/items/medichamite.png"
   },
   "baby_trigger_for": null,
   "machines": []

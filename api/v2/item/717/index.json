@@ -723,7 +723,7 @@
   ],
   "held_by_pokemon": [],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/charizardite-y.png"
+    "default": "/sprites/items/charizardite-y.png"
   },
   "baby_trigger_for": null,
   "machines": []

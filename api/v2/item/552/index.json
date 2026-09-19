@@ -113,7 +113,7 @@
   ],
   "held_by_pokemon": [],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/teachy-tv.png"
+    "default": "/sprites/items/teachy-tv.png"
   },
   "baby_trigger_for": null,
   "machines": []

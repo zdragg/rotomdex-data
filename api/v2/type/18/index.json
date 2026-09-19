@@ -956,17 +956,17 @@
     },
     "generation-ix": {
       "scarlet-violet": {
-        "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-ix/scarlet-violet/18.png",
-        "symbol_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-ix/scarlet-violet/small/18.png"
+        "name_icon": "/sprites/types/generation-ix/scarlet-violet/18.png",
+        "symbol_icon": "/sprites/types/generation-ix/scarlet-violet/small/18.png"
       }
     },
     "generation-vi": {
       "x-y": {
-        "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-vi/x-y/18.png",
+        "name_icon": "/sprites/types/generation-vi/x-y/18.png",
         "symbol_icon": null
       },
       "omega-ruby-alpha-sapphire": {
-        "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-vi/omega-ruby-alpha-sapphire/18.png",
+        "name_icon": "/sprites/types/generation-vi/omega-ruby-alpha-sapphire/18.png",
         "symbol_icon": null
       }
     },
@@ -994,30 +994,30 @@
     },
     "generation-vii": {
       "sun-moon": {
-        "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-vii/sun-moon/18.png",
+        "name_icon": "/sprites/types/generation-vii/sun-moon/18.png",
         "symbol_icon": null
       },
       "ultra-sun-ultra-moon": {
-        "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-vii/ultra-sun-ultra-moon/18.png",
+        "name_icon": "/sprites/types/generation-vii/ultra-sun-ultra-moon/18.png",
         "symbol_icon": null
       },
       "lets-go-pikachu-lets-go-eevee": {
-        "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-vii/lets-go-pikachu-lets-go-eevee/18.png",
-        "symbol_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-vii/lets-go-pikachu-lets-go-eevee/small/18.png"
+        "name_icon": "/sprites/types/generation-vii/lets-go-pikachu-lets-go-eevee/18.png",
+        "symbol_icon": "/sprites/types/generation-vii/lets-go-pikachu-lets-go-eevee/small/18.png"
       }
     },
     "generation-viii": {
       "sword-shield": {
-        "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield/18.png",
-        "symbol_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield/small/18.png"
+        "name_icon": "/sprites/types/generation-viii/sword-shield/18.png",
+        "symbol_icon": "/sprites/types/generation-viii/sword-shield/small/18.png"
       },
       "legends-arceus": {
-        "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/legends-arceus/18.png",
-        "symbol_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/legends-arceus/small/18.png"
+        "name_icon": "/sprites/types/generation-viii/legends-arceus/18.png",
+        "symbol_icon": "/sprites/types/generation-viii/legends-arceus/small/18.png"
       },
       "brilliant-diamond-shining-pearl": {
-        "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/brilliant-diamond-shining-pearl/18.png",
-        "symbol_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/brilliant-diamond-shining-pearl/small/18.png"
+        "name_icon": "/sprites/types/generation-viii/brilliant-diamond-shining-pearl/18.png",
+        "symbol_icon": "/sprites/types/generation-viii/brilliant-diamond-shining-pearl/small/18.png"
       }
     }
   }

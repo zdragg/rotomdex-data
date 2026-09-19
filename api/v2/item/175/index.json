@@ -951,7 +951,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/colbur-berry.png"
+    "default": "/sprites/items/colbur-berry.png"
   },
   "baby_trigger_for": null,
   "machines": []

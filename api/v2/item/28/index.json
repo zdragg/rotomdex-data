@@ -933,7 +933,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/revive.png"
+    "default": "/sprites/items/revive.png"
   },
   "baby_trigger_for": null,
   "machines": []

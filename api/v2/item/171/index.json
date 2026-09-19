@@ -923,7 +923,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tanga-berry.png"
+    "default": "/sprites/items/tanga-berry.png"
   },
   "baby_trigger_for": null,
   "machines": []

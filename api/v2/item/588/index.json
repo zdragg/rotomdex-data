@@ -1152,7 +1152,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/absorb-bulb.png"
+    "default": "/sprites/items/absorb-bulb.png"
   },
   "baby_trigger_for": null,
   "machines": []

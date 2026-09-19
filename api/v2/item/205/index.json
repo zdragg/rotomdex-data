@@ -1264,7 +1264,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/smoke-ball.png"
+    "default": "/sprites/items/smoke-ball.png"
   },
   "baby_trigger_for": null,
   "machines": []

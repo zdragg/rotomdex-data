@@ -788,7 +788,7 @@
   ],
   "held_by_pokemon": [],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/white-apricorn.png"
+    "default": "/sprites/items/white-apricorn.png"
   },
   "baby_trigger_for": null,
   "machines": []

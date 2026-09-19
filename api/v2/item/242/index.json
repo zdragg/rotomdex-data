@@ -1117,7 +1117,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wide-lens.png"
+    "default": "/sprites/items/wide-lens.png"
   },
   "baby_trigger_for": null,
   "machines": []

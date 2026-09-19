@@ -617,7 +617,7 @@
   ],
   "held_by_pokemon": [],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fire-memory.png"
+    "default": "/sprites/items/fire-memory.png"
   },
   "baby_trigger_for": null,
   "machines": []

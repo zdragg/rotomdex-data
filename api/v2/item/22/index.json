@@ -878,7 +878,7 @@
   ],
   "held_by_pokemon": [],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/paralyze-heal.png"
+    "default": "/sprites/items/paralyze-heal.png"
   },
   "baby_trigger_for": null,
   "machines": []

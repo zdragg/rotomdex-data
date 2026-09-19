@@ -624,7 +624,7 @@
   ],
   "held_by_pokemon": [],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/key-to-room-1.png"
+    "default": "/sprites/items/key-to-room-1.png"
   },
   "baby_trigger_for": null,
   "machines": []

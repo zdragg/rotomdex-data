@@ -816,7 +816,7 @@
   ],
   "held_by_pokemon": [],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/icy-rock.png"
+    "default": "/sprites/items/icy-rock.png"
   },
   "baby_trigger_for": null,
   "machines": []

@@ -881,7 +881,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rare-bone.png"
+    "default": "/sprites/items/rare-bone.png"
   },
   "baby_trigger_for": null,
   "machines": []

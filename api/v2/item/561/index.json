@@ -102,7 +102,7 @@
   ],
   "held_by_pokemon": [],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/magma-emblem.png"
+    "default": "/sprites/items/magma-emblem.png"
   },
   "baby_trigger_for": null,
   "machines": []

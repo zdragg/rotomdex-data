@@ -503,7 +503,7 @@
   ],
   "held_by_pokemon": [],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/storage-key--sea-mauville.png"
+    "default": "/sprites/items/storage-key--sea-mauville.png"
   },
   "baby_trigger_for": null,
   "machines": []

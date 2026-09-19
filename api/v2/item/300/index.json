@@ -1073,7 +1073,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/magmarizer.png"
+    "default": "/sprites/items/magmarizer.png"
   },
   "baby_trigger_for": null,
   "machines": []

@@ -1090,7 +1090,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/charcoal.png"
+    "default": "/sprites/items/charcoal.png"
   },
   "baby_trigger_for": null,
   "machines": []

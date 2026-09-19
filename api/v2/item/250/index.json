@@ -838,7 +838,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/flame-orb.png"
+    "default": "/sprites/items/flame-orb.png"
   },
   "baby_trigger_for": null,
   "machines": []

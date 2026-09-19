@@ -1245,7 +1245,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/thick-club.png"
+    "default": "/sprites/items/thick-club.png"
   },
   "baby_trigger_for": null,
   "machines": []

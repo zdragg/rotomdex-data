@@ -873,7 +873,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/up-grade.png"
+    "default": "/sprites/items/up-grade.png"
   },
   "baby_trigger_for": null,
   "machines": []

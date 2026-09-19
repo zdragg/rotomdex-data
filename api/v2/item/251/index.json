@@ -936,7 +936,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/quick-powder.png"
+    "default": "/sprites/items/quick-powder.png"
   },
   "baby_trigger_for": null,
   "machines": []

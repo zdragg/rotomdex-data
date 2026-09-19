@@ -1472,7 +1472,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png"
+    "default": "/sprites/items/miracle-seed.png"
   },
   "baby_trigger_for": null,
   "machines": []

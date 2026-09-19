@@ -1651,7 +1651,7 @@
       "generation-ix": {
         "scarlet-violet": {
           "front_female": null,
-          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/10264.png"
+          "front_default": "/sprites/pokemon/versions/generation-ix/scarlet-violet/10264.png"
         }
       },
       "generation-vi": {
@@ -1719,7 +1719,7 @@
     "front_shiny_female": null
   },
   "cries": {
-    "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/10264.ogg",
+    "latest": "/cries/pokemon/latest/10264.ogg",
     "legacy": null
   },
   "stats": [

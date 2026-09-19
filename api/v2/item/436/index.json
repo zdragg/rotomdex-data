@@ -817,7 +817,7 @@
   ],
   "held_by_pokemon": [],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/parcel.png"
+    "default": "/sprites/items/parcel.png"
   },
   "baby_trigger_for": null,
   "machines": []

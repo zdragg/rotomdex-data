@@ -1699,7 +1699,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pecha-berry.png"
+    "default": "/sprites/items/pecha-berry.png"
   },
   "baby_trigger_for": null,
   "machines": []

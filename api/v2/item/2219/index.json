@@ -94,7 +94,7 @@
   ],
   "held_by_pokemon": [],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lastrange-ball.png"
+    "default": "/sprites/items/lastrange-ball.png"
   },
   "baby_trigger_for": null,
   "machines": []

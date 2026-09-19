@@ -496,7 +496,7 @@
   ],
   "held_by_pokemon": [],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roto-hatch.png"
+    "default": "/sprites/items/roto-hatch.png"
   },
   "baby_trigger_for": null,
   "machines": []

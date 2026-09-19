@@ -800,7 +800,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/big-nugget.png"
+    "default": "/sprites/items/big-nugget.png"
   },
   "baby_trigger_for": null,
   "machines": []

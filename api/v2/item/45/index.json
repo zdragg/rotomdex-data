@@ -878,7 +878,7 @@
   ],
   "held_by_pokemon": [],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hp-up.png"
+    "default": "/sprites/items/hp-up.png"
   },
   "baby_trigger_for": null,
   "machines": []

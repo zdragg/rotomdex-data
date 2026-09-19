@@ -1500,7 +1500,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/shed-shell.png"
+    "default": "/sprites/items/shed-shell.png"
   },
   "baby_trigger_for": null,
   "machines": []

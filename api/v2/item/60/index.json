@@ -874,7 +874,7 @@
   ],
   "held_by_pokemon": [],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-accuracy.png"
+    "default": "/sprites/items/x-accuracy.png"
   },
   "baby_trigger_for": null,
   "machines": []

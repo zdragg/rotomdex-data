@@ -803,7 +803,7 @@
   ],
   "held_by_pokemon": [],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lunar-wing.png"
+    "default": "/sprites/items/lunar-wing.png"
   },
   "baby_trigger_for": null,
   "machines": []

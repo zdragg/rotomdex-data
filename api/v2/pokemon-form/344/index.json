@@ -22,16 +22,16 @@
       "generation-viii": {
         "brilliant-diamond-shining-pearl": {
           "front_female": null,
-          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-viii/brilliant-diamond-shining-pearl/344.png"
+          "front_default": "/sprites/pokemon/versions/generation-viii/brilliant-diamond-shining-pearl/344.png"
         }
       }
     },
-    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/344.png",
+    "back_shiny": "/sprites/pokemon/back/shiny/344.png",
     "back_female": null,
-    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/344.png",
-    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/344.png",
+    "front_shiny": "/sprites/pokemon/shiny/344.png",
+    "back_default": "/sprites/pokemon/back/344.png",
     "front_female": null,
-    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/344.png",
+    "front_default": "/sprites/pokemon/344.png",
     "back_shiny_female": null,
     "front_shiny_female": null
   },

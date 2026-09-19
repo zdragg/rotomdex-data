@@ -400,7 +400,7 @@
   ],
   "held_by_pokemon": [],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/xtransceiver.png"
+    "default": "/sprites/items/xtransceiver.png"
   },
   "baby_trigger_for": null,
   "machines": []

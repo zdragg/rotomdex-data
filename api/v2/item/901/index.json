@@ -726,7 +726,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/grassy-seed.png"
+    "default": "/sprites/items/grassy-seed.png"
   },
   "baby_trigger_for": null,
   "machines": []

@@ -1451,7 +1451,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/black-sludge.png"
+    "default": "/sprites/items/black-sludge.png"
   },
   "baby_trigger_for": null,
   "machines": []

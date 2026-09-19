@@ -969,7 +969,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/magnet.png"
+    "default": "/sprites/items/magnet.png"
   },
   "baby_trigger_for": null,
   "machines": []

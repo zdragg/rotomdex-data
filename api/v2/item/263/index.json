@@ -1155,7 +1155,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/grip-claw.png"
+    "default": "/sprites/items/grip-claw.png"
   },
   "baby_trigger_for": null,
   "machines": []

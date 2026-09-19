@@ -1034,7 +1034,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/moomoo-milk.png"
+    "default": "/sprites/items/moomoo-milk.png"
   },
   "baby_trigger_for": null,
   "machines": []

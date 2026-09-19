@@ -15,8 +15,8 @@
     "versions": {
       "generation-ix": {
         "scarlet-violet": {
-          "front_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/female/678.png",
-          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/678.png"
+          "front_female": "/sprites/pokemon/versions/generation-ix/scarlet-violet/female/678.png",
+          "front_default": "/sprites/pokemon/versions/generation-ix/scarlet-violet/678.png"
         }
       },
       "generation-viii": {
@@ -26,14 +26,14 @@
         }
       }
     },
-    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/678.png",
-    "back_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/female/678.png",
-    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/678.png",
-    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/678.png",
-    "front_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/678.png",
-    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/678.png",
-    "back_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/678.png",
-    "front_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/female/678.png"
+    "back_shiny": "/sprites/pokemon/back/shiny/678.png",
+    "back_female": "/sprites/pokemon/back/female/678.png",
+    "front_shiny": "/sprites/pokemon/shiny/678.png",
+    "back_default": "/sprites/pokemon/back/678.png",
+    "front_female": "/sprites/pokemon/female/678.png",
+    "front_default": "/sprites/pokemon/678.png",
+    "back_shiny_female": "/sprites/pokemon/back/shiny/female/678.png",
+    "front_shiny_female": "/sprites/pokemon/shiny/female/678.png"
   },
   "version_group": {
     "name": "x-y",

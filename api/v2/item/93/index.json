@@ -1011,7 +1011,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/heart-scale.png"
+    "default": "/sprites/items/heart-scale.png"
   },
   "baby_trigger_for": null,
   "machines": []

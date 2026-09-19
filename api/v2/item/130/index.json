@@ -1239,7 +1239,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/aspear-berry.png"
+    "default": "/sprites/items/aspear-berry.png"
   },
   "baby_trigger_for": null,
   "machines": []

@@ -908,7 +908,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/balm-mushroom.png"
+    "default": "/sprites/items/balm-mushroom.png"
   },
   "baby_trigger_for": null,
   "machines": []

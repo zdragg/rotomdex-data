@@ -1142,7 +1142,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/leftovers.png"
+    "default": "/sprites/items/leftovers.png"
   },
   "baby_trigger_for": null,
   "machines": []

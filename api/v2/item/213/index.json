@@ -1377,7 +1377,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/light-ball.png"
+    "default": "/sprites/items/light-ball.png"
   },
   "baby_trigger_for": null,
   "machines": []

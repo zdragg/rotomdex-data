@@ -951,7 +951,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/charti-berry.png"
+    "default": "/sprites/items/charti-berry.png"
   },
   "baby_trigger_for": null,
   "machines": []

@@ -1038,7 +1038,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/focus-band.png"
+    "default": "/sprites/items/focus-band.png"
   },
   "baby_trigger_for": null,
   "machines": []

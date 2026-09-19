@@ -496,7 +496,7 @@
   ],
   "held_by_pokemon": [],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/primarium-z--bag.png"
+    "default": "/sprites/items/primarium-z--bag.png"
   },
   "baby_trigger_for": null,
   "machines": []

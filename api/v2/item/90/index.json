@@ -1275,7 +1275,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/stardust.png"
+    "default": "/sprites/items/stardust.png"
   },
   "baby_trigger_for": null,
   "machines": []

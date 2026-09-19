@@ -951,7 +951,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/payapa-berry.png"
+    "default": "/sprites/items/payapa-berry.png"
   },
   "baby_trigger_for": null,
   "machines": []

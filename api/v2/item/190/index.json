@@ -1010,7 +1010,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bright-powder.png"
+    "default": "/sprites/items/bright-powder.png"
   },
   "baby_trigger_for": null,
   "machines": []

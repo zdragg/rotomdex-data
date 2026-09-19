@@ -1194,7 +1194,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/metronome.png"
+    "default": "/sprites/items/metronome.png"
   },
   "baby_trigger_for": null,
   "machines": []

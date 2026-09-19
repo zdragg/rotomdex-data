@@ -676,7 +676,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/electric-seed.png"
+    "default": "/sprites/items/electric-seed.png"
   },
   "baby_trigger_for": null,
   "machines": []

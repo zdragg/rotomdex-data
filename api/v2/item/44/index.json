@@ -1020,7 +1020,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sacred-ash.png"
+    "default": "/sprites/items/sacred-ash.png"
   },
   "baby_trigger_for": null,
   "machines": []

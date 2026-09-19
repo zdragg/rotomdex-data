@@ -106,7 +106,7 @@
   ],
   "held_by_pokemon": [],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/laleaden-ball.png"
+    "default": "/sprites/items/laleaden-ball.png"
   },
   "baby_trigger_for": null,
   "machines": []

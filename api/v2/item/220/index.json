@@ -1796,7 +1796,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mystic-water.png"
+    "default": "/sprites/items/mystic-water.png"
   },
   "baby_trigger_for": null,
   "machines": []

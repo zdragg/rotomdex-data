@@ -1008,7 +1008,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/cell-battery.png"
+    "default": "/sprites/items/cell-battery.png"
   },
   "baby_trigger_for": null,
   "machines": []

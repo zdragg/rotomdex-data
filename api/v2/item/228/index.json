@@ -947,7 +947,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/silk-scarf.png"
+    "default": "/sprites/items/silk-scarf.png"
   },
   "baby_trigger_for": null,
   "machines": []

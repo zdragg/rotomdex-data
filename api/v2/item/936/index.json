@@ -503,7 +503,7 @@
   ],
   "held_by_pokemon": [],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/meteorite--3.png"
+    "default": "/sprites/items/meteorite--3.png"
   },
   "baby_trigger_for": null,
   "machines": []

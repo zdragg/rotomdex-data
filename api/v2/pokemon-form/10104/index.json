@@ -16,7 +16,7 @@
       "generation-ix": {
         "scarlet-violet": {
           "front_female": null,
-          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/669-orange.png"
+          "front_default": "/sprites/pokemon/versions/generation-ix/scarlet-violet/669-orange.png"
         }
       },
       "generation-viii": {
@@ -26,12 +26,12 @@
         }
       }
     },
-    "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/669-orange.png",
+    "back_shiny": "/sprites/pokemon/back/shiny/669-orange.png",
     "back_female": null,
-    "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/669-orange.png",
-    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/669-orange.png",
+    "front_shiny": "/sprites/pokemon/shiny/669-orange.png",
+    "back_default": "/sprites/pokemon/back/669-orange.png",
     "front_female": null,
-    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/669-orange.png",
+    "front_default": "/sprites/pokemon/669-orange.png",
     "back_shiny_female": null,
     "front_shiny_female": null
   },

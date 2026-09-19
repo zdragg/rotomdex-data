@@ -617,7 +617,7 @@
   ],
   "held_by_pokemon": [],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dragon-memory.png"
+    "default": "/sprites/items/dragon-memory.png"
   },
   "baby_trigger_for": null,
   "machines": []

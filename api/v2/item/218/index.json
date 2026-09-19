@@ -1124,7 +1124,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/black-belt.png"
+    "default": "/sprites/items/black-belt.png"
   },
   "baby_trigger_for": null,
   "machines": []

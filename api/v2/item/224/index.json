@@ -1825,7 +1825,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/spell-tag.png"
+    "default": "/sprites/items/spell-tag.png"
   },
   "baby_trigger_for": null,
   "machines": []

@@ -1023,7 +1023,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/passho-berry.png"
+    "default": "/sprites/items/passho-berry.png"
   },
   "baby_trigger_for": null,
   "machines": []

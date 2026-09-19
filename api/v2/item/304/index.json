@@ -852,7 +852,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/razor-fang.png"
+    "default": "/sprites/items/razor-fang.png"
   },
   "baby_trigger_for": null,
   "machines": []

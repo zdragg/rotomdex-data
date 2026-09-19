@@ -1415,7 +1415,7 @@
     "front_shiny_female": null
   },
   "cries": {
-    "latest": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/10269.ogg",
+    "latest": "/cries/pokemon/latest/10269.ogg",
     "legacy": null
   },
   "stats": [

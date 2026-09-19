@@ -979,7 +979,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/potion.png"
+    "default": "/sprites/items/potion.png"
   },
   "baby_trigger_for": null,
   "machines": []

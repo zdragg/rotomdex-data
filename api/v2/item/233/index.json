@@ -998,7 +998,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lucky-punch.png"
+    "default": "/sprites/items/lucky-punch.png"
   },
   "baby_trigger_for": null,
   "machines": []

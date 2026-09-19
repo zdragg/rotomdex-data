@@ -867,7 +867,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/iron-ball.png"
+    "default": "/sprites/items/iron-ball.png"
   },
   "baby_trigger_for": null,
   "machines": []

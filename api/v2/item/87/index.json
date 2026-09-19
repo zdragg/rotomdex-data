@@ -1531,7 +1531,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/big-mushroom.png"
+    "default": "/sprites/items/big-mushroom.png"
   },
   "baby_trigger_for": null,
   "machines": []

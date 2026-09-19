@@ -1173,7 +1173,7 @@
     }
   ],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/light-clay.png"
+    "default": "/sprites/items/light-clay.png"
   },
   "baby_trigger_for": null,
   "machines": []

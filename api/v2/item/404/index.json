@@ -171,7 +171,7 @@
   ],
   "held_by_pokemon": [],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png"
+    "default": "/sprites/items/hm-normal.png"
   },
   "baby_trigger_for": null,
   "machines": [

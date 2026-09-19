@@ -480,7 +480,7 @@
   ],
   "held_by_pokemon": [],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/storage-key.png"
+    "default": "/sprites/items/storage-key.png"
   },
   "baby_trigger_for": null,
   "machines": []

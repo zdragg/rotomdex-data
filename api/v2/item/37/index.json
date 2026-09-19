@@ -871,7 +871,7 @@
   ],
   "held_by_pokemon": [],
   "sprites": {
-    "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/revival-herb.png"
+    "default": "/sprites/items/revival-herb.png"
   },
   "baby_trigger_for": null,
   "machines": []
