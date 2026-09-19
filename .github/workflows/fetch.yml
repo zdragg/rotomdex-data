@@ -33,6 +33,10 @@ jobs:
           mv "$RUNNER_TEMP/api-data/data/api" api
           mv "$RUNNER_TEMP/sprites/sprites" sprites
 
+          find api/v2 -type f -print0 | xargs -0 sed -i \
+            -e 's#https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/#/sprites/#g' \
+            -e 's#https://raw.githubusercontent.com/PokeAPI/cries/main/cries/#/cries/#g'
+
       - name: Commit changes
         run: |
           git add api sprites
