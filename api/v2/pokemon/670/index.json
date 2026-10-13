@@ -3728,9 +3728,35 @@
           "front_shiny": null,
           "front_default": null
         },
+        "legends-za": {
+          "icons": {
+            "front_shiny": "/sprites/pokemon/versions/generation-ix/legends-za/icons/shiny/670.png",
+            "front_female": "/sprites/pokemon/versions/generation-ix/legends-za/icons/670.png",
+            "front_default": "/sprites/pokemon/versions/generation-ix/legends-za/icons/670.png",
+            "front_shiny_female": "/sprites/pokemon/versions/generation-ix/legends-za/icons/shiny/670.png"
+          },
+          "back_shiny": "/sprites/pokemon/versions/generation-ix/legends-za/back/shiny/670.webp",
+          "back_female": "/sprites/pokemon/versions/generation-ix/legends-za/back/670.webp",
+          "front_shiny": "/sprites/pokemon/versions/generation-ix/legends-za/shiny/670.webp",
+          "back_default": "/sprites/pokemon/versions/generation-ix/legends-za/back/670.webp",
+          "front_female": "/sprites/pokemon/versions/generation-ix/legends-za/670.webp",
+          "front_default": "/sprites/pokemon/versions/generation-ix/legends-za/670.webp",
+          "back_shiny_female": "/sprites/pokemon/versions/generation-ix/legends-za/back/shiny/670.webp",
+          "front_shiny_female": "/sprites/pokemon/versions/generation-ix/legends-za/shiny/670.webp"
+        },
         "scarlet-violet": {
-          "front_female": null,
-          "front_default": null
+          "icons": {
+            "front_female": "/sprites/pokemon/versions/generation-ix/scarlet-violet/icons/670.png",
+            "front_default": "/sprites/pokemon/versions/generation-ix/scarlet-violet/icons/670.png"
+          },
+          "back_shiny": "/sprites/pokemon/versions/generation-ix/scarlet-violet/back/shiny/670.webp",
+          "back_female": "/sprites/pokemon/versions/generation-ix/scarlet-violet/back/670.webp",
+          "front_shiny": "/sprites/pokemon/versions/generation-ix/scarlet-violet/shiny/670.webp",
+          "back_default": "/sprites/pokemon/versions/generation-ix/scarlet-violet/back/670.webp",
+          "front_female": "/sprites/pokemon/versions/generation-ix/scarlet-violet/670.webp",
+          "front_default": "/sprites/pokemon/versions/generation-ix/scarlet-violet/670.webp",
+          "back_shiny_female": "/sprites/pokemon/versions/generation-ix/scarlet-violet/back/shiny/670.webp",
+          "front_shiny_female": "/sprites/pokemon/versions/generation-ix/scarlet-violet/shiny/670.webp"
         }
       },
       "generation-vi": {
