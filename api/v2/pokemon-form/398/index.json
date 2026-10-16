@@ -203,8 +203,18 @@
       },
       "generation-ix": {
         "champions": {
-          "front_shiny": "/sprites/pokemon/versions/generation-ix/champions/shiny/398.png",
-          "front_default": "/sprites/pokemon/versions/generation-ix/champions/398.png"
+          "icons": {
+            "front_shiny": "/sprites/pokemon/versions/generation-ix/champions/icons/shiny/398.png",
+            "front_default": "/sprites/pokemon/versions/generation-ix/champions/icons/398.png"
+          },
+          "back_shiny": "/sprites/pokemon/versions/generation-ix/champions/back/shiny/398.webp",
+          "back_female": "/sprites/pokemon/versions/generation-ix/champions/back/female/398.webp",
+          "front_shiny": "/sprites/pokemon/versions/generation-ix/champions/shiny/398.webp",
+          "back_default": "/sprites/pokemon/versions/generation-ix/champions/back/398.webp",
+          "front_female": "/sprites/pokemon/versions/generation-ix/champions/female/398.webp",
+          "front_default": "/sprites/pokemon/versions/generation-ix/champions/398.webp",
+          "back_shiny_female": "/sprites/pokemon/versions/generation-ix/champions/back/shiny/female/398.webp",
+          "front_shiny_female": "/sprites/pokemon/versions/generation-ix/champions/shiny/female/398.webp"
         },
         "legends-za": {
           "icons": {
@@ -322,10 +332,6 @@
         }
       },
       "generation-viii": {
-        "icons": {
-          "front_female": null,
-          "front_default": "/sprites/pokemon/versions/generation-viii/icons/398.png"
-        },
         "sword-shield": {
           "icons": {
             "front_female": null,
