@@ -94,7 +94,7 @@
   ],
   "held_by_pokemon": [],
   "sprites": {
-    "default": null
+    "default": "/sprites/items/hearthflame-mask.png"
   },
   "baby_trigger_for": null,
   "machines": []
