@@ -1231,6 +1231,10 @@
       }
     },
     "generation-ix": {
+      "champions": {
+        "name_icon": "/sprites/types/generation-ix/champions/13.png",
+        "symbol_icon": "/sprites/types/generation-ix/champions/small/13.png"
+      },
       "scarlet-violet": {
         "name_icon": "/sprites/types/generation-ix/scarlet-violet/13.png",
         "symbol_icon": "/sprites/types/generation-ix/scarlet-violet/small/13.png"
